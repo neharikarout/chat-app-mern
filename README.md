@@ -13,5 +13,7 @@ Uses Socket.io for real time communication and stores user details in encrypted 
   
 ## Demo
 
+**Live Link of Web app:** https://chat-spot.onrender.com/
+
 
   
